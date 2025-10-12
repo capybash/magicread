@@ -1,6 +1,5 @@
 {
   "name": "capybash/magicread",
-  "version": "1.0.0",
   "description": "MagicRead adds a clean discussion pager and a live character counter for the composer.",
   "type": "flarum-extension",
   "keywords": [
