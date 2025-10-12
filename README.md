@@ -1,5 +1,5 @@
 # ✨ MagicRead for Flarum
-MagicRead adds a clean, lightweight pagination inside discussions and a live character counter** for the composer.
+MagicRead adds a clean, lightweight pagination inside discussions and a live character counter for the composer.
 
 ---
 
