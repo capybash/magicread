@@ -23,7 +23,7 @@ MagicRead adds a clean, lightweight pagination inside discussions and a live cha
 ## 📦 Installation
 Run in your Flarum root directory:
 ```bash
-composer require capybash/magicread:*
+composer require capybash/magicread:"*"
 ```
 
 ---
