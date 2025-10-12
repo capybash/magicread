@@ -32,3 +32,4 @@ composer require capybash/magicread:*
 - [**GitHub Repository**](https://github.com/capybash/magiread)  
 - [**Packagist**](https://packagist.org/packages/capybash/magiread)  
 - [**Extiverse**](https://extiverse.com/extension/capybash/magicread)
+- [**Discuss**](https://discuss.flarum.org/d/38287-magicread-pagination-live-counter)
