@@ -17,6 +17,7 @@
   "support": {
     "issues": "https://github.com/capybash/magicread/issues",
     "source": "https://github.com/capybash/magicread"
+    "forum": "https://discuss.flarum.org/d/38287-magicread-pagination-live-counter"
   },
   "authors": [
     {
