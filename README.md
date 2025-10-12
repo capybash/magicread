@@ -13,7 +13,10 @@ MagicRead adds a clean, lightweight pagination inside discussions and a live cha
 ---
 
 ## 📸 Screenshots
-*(Coming soon)*
+<img width="1200" height="320" alt="image" src="https://github.com/user-attachments/assets/9cccf8e7-e637-47af-aea7-792d12824465" />
+<img width="1200" height="240" alt="image" src="https://github.com/user-attachments/assets/491cabf1-64e8-4df7-b44f-ead399845d06" />
+
+
 
 ---
 
