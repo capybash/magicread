@@ -1,7 +1,7 @@
 import app from 'flarum/admin/app';
 import ExtensionPage from 'flarum/admin/components/ExtensionPage';
 
-function Section(iconClass: string, titleKey: string, ...children: any[]) {
+function Section(iconClass, titleKey, ...children) {
   return m(
     'section.MagicRead-SettingsSection',
     m('h3', [
@@ -13,6 +13,10 @@ function Section(iconClass: string, titleKey: string, ...children: any[]) {
 }
 
 export default class MagicReadPage extends ExtensionPage {
+  className() {
+    return 'MagicReadPage';
+  }
+
   content() {
     return m(
       'div.MagicReadPage',
@@ -36,7 +40,7 @@ export default class MagicReadPage extends ExtensionPage {
               setting: 'capybash-magicread.enable_counter',
               label: app.translator.trans('capybash-magicread.admin.settings.enable_counter'),
             })
-          )
+          ),
         ),
         m('div.Form-group', this.submitButton())
       )
